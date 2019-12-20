@@ -40,7 +40,7 @@
             "Sofa\\Eloquence\\Tests\\": "tests"
         }
     },
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "scripts": {
         "test": "phpunit"
     }
